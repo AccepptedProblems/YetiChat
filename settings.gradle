@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "YetiChat"
-include ':app'
+include ':yetichat'
